@@ -18,7 +18,7 @@ This architecture implements a multi-tier network topology to isolate internal c
 ## Tech Stack
 
 * **Cloud Infrastructure Provider:** AWS (VPC, Subnets, Internet Gateway, Route Tables, Security Groups, EC2)
-* **Infrastructure as Code Platform:** Terraform v1.5+
+* **Infrastructure as Code Platform:** Terraform `v1.5+`
 * **Operating System & Web Server:** Amazon Linux 2023, Apache HTTP Server (`httpd`)
 
 ---
